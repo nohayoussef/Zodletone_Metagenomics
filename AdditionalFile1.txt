@@ -1,0 +1,300 @@
+Sugars other than glucose:
+Xylose
+K01805  xylA; xylose isomerase [EC:5.3.1.5]
+K00854  xylB, XYLB; xylulokinase [EC:2.7.1.17]
+
+Arabinose
+K01804  araA; L-arabinose isomerase [EC:5.3.1.4]
+K00853  araB; L-ribulokinase [EC:2.7.1.16]
+
+Galactose
+K01785  galM, GALM; aldose 1-epimerase [EC:5.1.3.3]
+K00849  galK; galactokinase [EC:2.7.1.6]
+K00965  galT, GALT; UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]
+K01784  galE, GALE; UDP-glucose 4-epimerase [EC:5.1.3.2]
+K17716  capD; UDP-glucose 4-epimerase [EC:5.1.3.2]
+
+Fructose
+K00844  HK; hexokinase [EC:2.7.1.1], OR
+K00847  E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+
+Mannose
+K01809  manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8], OR
+K15916  pgi-pmi; glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8], OR
+K16011  algA, xanB, rfbA, wbpW, pslB; mannose-1-phosphate guanylyltransferase / mannose-6-phosphate isomerase [EC:2.7.7.13 5.3.1.8]
+
+
+Amino acids:
+Alanine
+K00814  GPT, ALT; alanine transaminase [EC:2.6.1.2], OR
+K14260  alaA; alanine-synthesizing transaminase [EC:2.6.1.66 2.6.1.2], OR
+K00830  AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51], OR
+K00827  AGXT2; alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase [EC:2.6.1.44 2.6.1.40], OR
+K14272  GGAT; glutamate--glyoxylate aminotransferase [EC:2.6.1.4 2.6.1.2 2.6.1.44]
+
+Aspartate
+K01744  aspA; aspartate ammonia-lyase [EC:4.3.1.1]
+
+Asparagine
+K05597  aspQ, ansB, ansA; glutamin-(asparagin-)ase [EC:3.5.1.38], OR
+K01424  E3.5.1.1, ansA, ansB; L-asparaginase [EC:3.5.1.1], OR
+K13051  ASRGL1, iaaA; L-asparaginase / beta-aspartyl-peptidase [EC:3.5.1.1 3.4.19.5]
+
+Glutamine
+K01425  glsA, GLS; glutaminase [EC:3.5.1.2], OR
+K23265  purQ; phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase [EC:6.3.5.3 3.5.1.2], OR
+K05597  aspQ, ansB, ansA; glutamin-(asparagin-)ase [EC:3.5.1.38]
+
+Glutamate
+K15371  GDH2; glutamate dehydrogenase [EC:1.4.1.2], OR
+K00260  gudB, rocG; glutamate dehydrogenase [EC:1.4.1.2], OR
+K00261  GLUD1_2, gdhA; glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3], OR
+K00262  E1.4.1.4, gdhA; glutamate dehydrogenase (NADP+) [EC:1.4.1.4]
+
+Glycine
+K00281  GLDC, gcvP; glycine dehydrogenase [EC:1.4.4.2]
+K00282  gcvPA; glycine dehydrogenase subunit 1 [EC:1.4.4.2]
+K00283  gcvPB; glycine dehydrogenase subunit 2 [EC:1.4.4.2]
+K00605  gcvT, AMT; aminomethyltransferase [EC:2.1.2.10]
+K00382  DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]
+K02437  gcvH, GCSH; glycine cleavage system H protein
+
+
+Serine
+K17989  SDS, SDH, CHA1; L-serine/L-threonine ammonia-lyase [EC:4.3.1.17 4.3.1.19], OR
+K01752  E4.3.1.17, sdaA, sdaB, tdcG; L-serine dehydratase [EC:4.3.1.17]
+
+Threonine
+K17989  SDS, SDH, CHA1; L-serine/L-threonine ammonia-lyase [EC:4.3.1.17 4.3.1.19], OR
+K01754  E4.3.1.19, ilvA, tdcB; threonine dehydratase [EC:4.3.1.19]
+
+Cysteine
+K01758  CTH; cystathionine gamma-lyase [EC:4.4.1.1], OR
+K17217  mccB; cystathionine gamma-lyase / homocysteine desulfhydrase [EC:4.4.1.1 4.4.1.2], OR
+K00816  CCBL; kynurenine---oxoglutarate transaminase / cysteine-S-conjugate beta-lyase / glutamine---phenylpyruvate transaminase [EC:2.6.1.7 4.4.1.13 2.6.1.64], OR
+K01760  metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13], OR
+K14155  patB, malY; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+
+Methionine
+K01761  E4.4.1.11; methionine-gamma-lyase [EC:4.4.1.11]
+
+Arginine
+K01476  E3.5.3.1, rocF, arg; arginase [EC:3.5.3.1]
+K00819  rocD, OAT; ornithine--oxo-acid transaminase [EC:2.6.1.13]
+K00294  E1.2.1.88; 1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88], OR
+K13821  putA; RHH-type transcriptional regulator, proline utilization regulon repressor / proline dehydrogenase / delta 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.5.2 1.2.1.88]
+
+Proline
+K00318  PRODH, fadM, putB; proline dehydrogenase [EC:1.5.5.2]
+K00294  E1.2.1.88; 1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88], OR
+K13821  putA; RHH-type transcriptional regulator, proline utilization regulon repressor / proline dehydrogenase / delta 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.5.2 1.2.1.88]
+
+
+Histidine
+K01745  hutH, HAL; histidine ammonia-lyase [EC:4.3.1.3]
+K01712  hutU, UROC1; urocanate hydratase [EC:4.2.1.49]
+K01468  hutI, AMDHD1; imidazolonepropionase [EC:3.5.2.7]
+K01479  hutG; formiminoglutamase [EC:3.5.3.8]
+
+Oxidative phosphorylation
+Cytochrome aa3 complex:
+K02277  coxD, ctaF; cytochrome c oxidase subunit IV [EC:7.1.1.9]
+K02276  coxC, ctaE; cytochrome c oxidase subunit III [EC:7.1.1.9]
+K02274  coxA, ctaD; cytochrome c oxidase subunit I [EC:7.1.1.9]
+K15408  coxAC; cytochrome c oxidase subunit I+III [EC:7.1.1.9]
+K02275  coxB, ctaC; cytochrome c oxidase subunit II [EC:7.1.1.9]
+Cytochrome cbb3 complex:
+K00404  ccoN; cytochrome c oxidase cbb3-type subunit I [EC:7.1.1.9]
+K00405  ccoO; cytochrome c oxidase cbb3-type subunit II
+K15862  ccoNO; cytochrome c oxidase cbb3-type subunit I/II [EC:7.1.1.9]
+K00407  ccoQ; cytochrome c oxidase cbb3-type subunit IV
+K00406  ccoP; cytochrome c oxidase cbb3-type subunit III
+Cytochrome bd:
+K00425  cydA; cytochrome bd ubiquinol oxidase subunit I [EC:7.1.1.7]
+K00426  cydB; cytochrome bd ubiquinol oxidase subunit II [EC:7.1.1.7]
+
+Nitrogen
+DNRA (nirBD or nrfAH)
+K00362  nirB; nitrite reductase (NADH) large subunit [EC:1.7.1.15]
+K00363  nirD; nitrite reductase (NADH) small subunit [EC:1.7.1.15]
+K03385  nrfA; nitrite reductase (cytochrome c-552) [EC:1.7.2.2]
+K15876  nrfH; cytochrome c nitrite reductase small subunit
+Denitrification (narGHI or napAB + nirK or nirS + norBC + nosZ)
+K00370  narG, narZ, nxrA; nitrate reductase / nitrite oxidoreductase, alpha subunit [EC:1.7.5.1 1.7.99.-]
+K00371  narH, narY, nxrB; nitrate reductase / nitrite oxidoreductase, beta subunit [EC:1.7.5.1 1.7.99.-]
+K00374  narI, narV; nitrate reductase gamma subunit [EC:1.7.5.1 1.7.99.-]
+K02567  napA; nitrate reductase (cytochrome) [EC:1.9.6.1]
+K02568  napB; nitrate reductase (cytochrome), electron transfer subunit
+K00368  nirK; nitrite reductase (NO-forming) [EC:1.7.2.1]
+K15864  nirS; nitrite reductase (NO-forming) / hydroxylamine reductase [EC:1.7.2.1 1.7.99.1]
+K04561  norB; nitric oxide reductase subunit B [EC:1.7.2.5]
+K02305  norC; nitric oxide reductase subunit C
+K00376  nosZ; nitrous-oxide reductase [EC:1.7.2.4]
+
+Short chain fatty acids
+D-Lactate
+K00102  LDHD, dld; D-lactate dehydrogenase (cytochrome) [EC:1.1.2.4], OR
+K18930  dld; D-lactate dehydrogenase
+
+L-lactate
+K00101  lldD; L-lactate dehydrogenase (cytochrome) [EC:1.1.2.3]
+
+Propionate
+Step 1
+K01895  ACSS1_2, acs; acetyl-CoA synthetase [EC:6.2.1.1], OR
+K01908  ACSS3, prpE; propionyl-CoA synthetase [EC:6.2.1.17], OR
+K01026  pct; propionate CoA-transferase [EC:2.8.3.1], OR
+K01905  acdA; acetate---CoA ligase (ADP-forming) subunit alpha [EC:6.2.1.13] and
+K22224  acdB; acetate---CoA ligase (ADP-forming) subunit beta [EC:6.2.1.13], OR
+K24012  acdAB; acetate---CoA ligase (ADP-forming) [EC:6.2.1.13], OR
+K00925  ackA; acetate kinase [EC:2.7.2.1] and
+K00625  E2.3.1.8, pta; phosphate acetyltransferase [EC:2.3.1.8], OR
+K13788  pta; phosphate acetyltransferase [EC:2.3.1.8], OR
+K15024  K15024; putative phosphotransacetylase [EC:2.3.1.8]
+Step 2
+K01965  PCCA, pccA; propionyl-CoA carboxylase alpha chain [EC:6.4.1.3] and
+K01966  PCCB, pccB; propionyl-CoA carboxylase beta chain [EC:6.4.1.3 2.1.3.15], OR
+K03416  E2.1.3.1-5S; methylmalonyl-CoA carboxyltransferase 5S subunit [EC:2.1.3.1], OR
+K11263  bccA, pccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14], OR
+K15036  K15036; acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3 2.1.3.15], OR
+K17489  E2.1.3.1-12S; methylmalonyl-CoA carboxyltransferase 12S subunit [EC:2.1.3.1], OR
+K17490  E2.1.3.1-1.3S; methylmalonyl-CoA carboxyltransferase 1.3S subunit [EC:2.1.3.1], OR
+K19312  pccB; acetyl-CoA/propionyl-CoA carboxylase carboxyl transferase subunit [EC:6.4.1.2 6.4.1.3 2.1.3.15]
+Step 3
+K05606  MCEE, epi; methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1]
+Step 4
+K01847  MUT; methylmalonyl-CoA mutase [EC:5.4.99.2], OR
+K01849  E5.4.99.2B, mcmA2; methylmalonyl-CoA mutase, C-terminal domain [EC:5.4.99.2] and
+K01848  E5.4.99.2A, mcmA1; methylmalonyl-CoA mutase, N-terminal domain [EC:5.4.99.2]
+Step 5
+K01902  sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5] and
+K01903  sucC; succinyl-CoA synthetase beta subunit [EC:6.2.1.5]
+
+Butyrate
+Step 1
+K00929  buk; butyrate kinase [EC:2.7.2.7] and
+K00634  ptb; phosphate butyryltransferase [EC:2.3.1.19], OR
+K01034  atoD; acetate CoA/acetoacetate CoA-transferase alpha subunit [EC:2.8.3.8 2.8.3.9] and
+K01035  atoA; acetate CoA/acetoacetate CoA-transferase beta subunit [EC:2.8.3.8 2.8.3.9], OR
+K23756	ACSM1;medium-chain acyl-CoA ligase / lipoate-activating enzyme [EC:6.2.1.2]
+Step 2
+K00248  ACADS, bcd; butyryl-CoA dehydrogenase [EC:1.3.8.1]
+Step 3
+K01782  fadJ; 3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase [EC:1.1.1.35 4.2.1.17 5.1.2.3], OR
+K01692  paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17], OR
+K01715  crt; enoyl-CoA hydratase [EC:4.2.1.17], OR
+K17865  croR; 3-hydroxybutyryl-CoA dehydratase [EC:4.2.1.55]
+Step 4
+K00023  phbB; acetoacetyl-CoA reductase [EC:1.1.1.36], OR
+K00074  paaH, hbd, fadB, mmgB; 3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157], OR
+K07516  fadN; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]
+Step 5
+K00626  ACAT, atoB; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]
+
+Acetate
+Step 1
+K00625  E2.3.1.8, pta; phosphate acetyltransferase [EC:2.3.1.8], OR
+K00925  ackA; acetate kinase [EC:2.7.2.1] and
+K13788  pta; phosphate acetyltransferase [EC:2.3.1.8], OR
+K15024  K15024; putative phosphotransacetylase [EC:2.3.1.8]
+K01895  ACSS1_2, acs; acetyl-CoA synthetase [EC:6.2.1.1], OR
+Step 2
+K14138  acsB; acetyl-CoA synthase [EC:2.3.1.169]
+Step 3
+K15023  acsE; 5-methyltetrahydrofolate corrinoid/iron sulfur protein methyltransferase [EC:2.1.1.258]
+Step 4
+K00297  metF, MTHFR; methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]
+Step 5 and 6
+K01491  folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]
+Step 7
+K01938  fhs; formate--tetrahydrofolate ligase [EC:6.3.4.3]
+Step 8
+K05299  fdhA; formate dehydrogenase (NADP+) alpha subunit [EC:1.17.1.10] and
+K15022  fdhB; formate dehydrogenase (NADP+) beta subunit [EC:1.17.1.10]
+Step 9
+K00198  cooS, acsA; anaerobic carbon-monoxide dehydrogenase catalytic subunit [EC:1.2.7.4] and
+K00196  cooF; anaerobic carbon-monoxide dehydrogenase iron sulfur subunit
+
+WLP (all need to be present)
+K15023  acsE; 5-methyltetrahydrofolate corrinoid/iron sulfur protein methyltransferase [EC:2.1.1.258]
+K00297  metF, MTHFR; methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]
+K01491  folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]
+K01938  fhs; formate--tetrahydrofolate ligase [EC:6.3.4.3]
+K05299  fdhA; formate dehydrogenase (NADP+) alpha subunit [EC:1.17.1.10]
+K15022  fdhB; formate dehydrogenase (NADP+) beta subunit [EC:1.17.1.10]
+K00198  cooS, acsA; anaerobic carbon-monoxide dehydrogenase catalytic subunit [EC:1.2.7.4]
+K00197  cdhE, acsC; acetyl-CoA decarbonylase/synthase, CODH/ACS complex subunit gamma [EC:2.1.1.245]
+K00194  cdhD, acsD; acetyl-CoA decarbonylase/synthase, CODH/ACS complex subunit delta [EC:2.1.1.245]
+K14138  acsB; acetyl-CoA synthase [EC:2.3.1.169]
+
+rTCA
+System 1 (1 enzyme)
+K01648  ACLY; ATP citrate (pro-S)-lyase [EC:2.3.3.8], OR
+K15230  aclA; ATP-citrate lyase alpha-subunit [EC:2.3.3.8], and
+K15231  aclB; ATP-citrate lyase beta-subunit [EC:2.3.3.8]
+system 2 (two enzymes all three should be present)
+K15232  ccsA; citryl-CoA synthetase large subunit [EC:6.2.1.18]
+K15233  ccsB; citryl-CoA synthetase small subunit
+K15234  ccl; citryl-CoA lyase [EC:4.1.3.34]
+
+Calvin (all three need to be present)
+K01601  rbcL, cbbL; ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39]
+K01602  rbcS, cbbS; ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39]
+K00855  PRK, prkB; phosphoribulokinase [EC:2.7.1.19]
+
+Benzoyl-CoA degradation, benzoyl-CoA => 3-hydroxypimeloyl-CoA
+Need badA + bcrABCD/ or bamBC + dch + had + oah
+K04110  badA; benzoate-CoA ligase [EC:6.2.1.25]
+K04112  bcrC, badD; benzoyl-CoA reductase subunit C [EC:1.3.7.8]
+K04113  bcrB, badE; benzoyl-CoA reductase subunit B [EC:1.3.7.8]
+K04114  bcrA, badF; benzoyl-CoA reductase subunit A [EC:1.3.7.8]
+K04115  bcrD, badG; benzoyl-CoA reductase subunit D [EC:1.3.7.8]
+K19515  bamB; benzoyl-CoA reductase subunit BamB [EC:1.3.-.-]
+K19516  bamC; benzoyl-CoA reductase subunit BamC [EC:1.3.-.-]
+K07537  dch; cyclohexa-1,5-dienecarbonyl-CoA hydratase [EC:4.2.1.100]
+K07538  had; 6-hydroxycyclohex-1-ene-1-carbonyl-CoA dehydrogenase [EC:1.1.1.368]
+K07539  oah; 6-oxocyclohex-1-ene-carbonyl-CoA hydrolase [EC:3.7.1.21]
+
+Benzoate degradation, cyclohexanecarboxylic acid =>pimeloyl-CoA
+need all of them to be present
+K04116  aliA; cyclohexanecarboxylate-CoA ligase [EC:6.2.1.-]
+K04117  aliB; cyclohexanecarboxyl-CoA dehydrogenase [EC:1.3.99.-]
+K07534  badK; cyclohex-1-ene-1-carboxyl-CoA hydratase [EC:4.2.1.-]
+K07535  badH; 2-hydroxycyclohexanecarboxyl-CoA dehydrogenase [EC:1.1.1.-]
+K07536  badI; 2-ketocyclohexanecarboxyl-CoA hydrolase [EC:3.1.2.-]
+K04118  E1.3.1.62; pimeloyl-CoA dehydrogenase [EC:1.3.1.62]
+
+beta-Oxidation
+Step 1
+Any of these
+K01897  ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+K15013  ACSBG; long-chain-fatty-acid--CoA ligase ACSBG [EC:6.2.1.3]
+K00232  E1.3.3.6, ACOX1, ACOX3; acyl-CoA oxidase [EC:1.3.3.6]
+K00249  ACADM, acd; acyl-CoA dehydrogenase [EC:1.3.8.7]
+K00255  ACADL; long-chain-acyl-CoA dehydrogenase [EC:1.3.8.8]
+K06445  fadE; acyl-CoA dehydrogenase [EC:1.3.99.-]
+K09479  ACADVL; very long chain acyl-CoA dehydrogenase [EC:1.3.8.9]
+Step 2
+either of these
+K01692  paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]
+K07511  ECHS1; enoyl-CoA hydratase [EC:4.2.1.17]
+K13767  fadB; enoyl-CoA hydratase [EC:4.2.1.17]
+Step 3 
+either of these
+K00022  HADH; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]
+K07516  fadN; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]
+OR step 2 and 3 combined
+either of these
+K01825  fadB; 3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase [EC:1.1.1.35 4.2.1.17 5.1.2.3 5.3.3.8]
+K01782  fadJ; 3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase [EC:1.1.1.35 4.2.1.17 5.1.2.3]
+K07515  HADHA; enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.211]
+K07514  EHHADH; enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase [EC:4.2.1.17 1.1.1.35 5.3.3.8]
+K10527  MFP2; enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.35 1.1.1.211]
+Last step
+either of these
+K00632  fadA, fadI; acetyl-CoA acyltransferase [EC:2.3.1.16]
+K07513  ACAA1; acetyl-CoA acyltransferase 1 [EC:2.3.1.16]
+K07508  ACAA2; acetyl-CoA acyltransferase 2 [EC:2.3.1.16]
+K07509  HADHB; acetyl-CoA acyltransferase [EC:2.3.1.16]
+Sometimes this is needed
+K00626  ACAT, atoB; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]
